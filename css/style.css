@@ -1,0 +1,14 @@
+  /* body{
+    background-color: aquamarine; */
+  /* } */
+    .header {
+        color: #36A0FF;
+        font-size: 27px;
+        padding: 10px;
+        border: 1px solid black;
+    }
+    
+    .bigicon {
+        font-size: 35px;
+        color: #36A0FF;
+    }
